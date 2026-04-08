@@ -1,0 +1,1 @@
+fun String.removeSpaces(): String = this.replace(" ", "")
